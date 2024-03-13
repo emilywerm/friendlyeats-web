@@ -18,14 +18,8 @@
       "collectionGroup": "restaurants",
       "queryScope": "COLLECTION",
       "fields": [
-        {
-          "fieldPath": "city",
-          "order": "ASCENDING"
-        },
-        {
-          "fieldPath": "avgRating",
-          "order": "DESCENDING"
-        }
+        { "fieldPath": "city", "order": "ASCENDING" },
+        { "fieldPath": "avgRating", "order": "DESCENDING" }
       ]
     },
     {
